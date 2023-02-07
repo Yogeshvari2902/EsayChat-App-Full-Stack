@@ -32,11 +32,11 @@
 
 - Desktop Preview
 
-![Desktop-Preview](Easychat_assets/phone.jpg)
+![Desktop-Preview](Easychat_assets/login.jpg)
 
 - Mobile Preview
 
-![Mobile-Preview](assets/mobile-preview9.png)
+![Mobile-Preview](Easychat_assets/phone.jpg)
 
 - User Details:
 
