@@ -37,9 +37,9 @@
 
 - Showing Chats:
 
-![Credential Update](assets/userUpdate.webp)
+![Chats Page](assets/chat.jpg)
 
-- SnackBar Alerts
+<!-- - SnackBar Alerts
 
-![SnackBar Alerts](assets/snackBar9.png)
+![SnackBar Alerts](assets/snackBar9.png) -->
 
