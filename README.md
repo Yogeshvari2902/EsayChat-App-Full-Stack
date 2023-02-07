@@ -38,23 +38,20 @@
 
 ![Mobile-Preview](Easychat_assets/phone.jpg)
 
-- User Details:
+- Create User:
 
-![UserDetails](assets/userDetails9.png)
+![Create User](Easychat_assets/createuser.jpg)
 
 - Login Page:
 
 ![Login Page](Easychat_assets/login.jpg)
 
-- Create User:
+- Home Page:
 
-![Create User](Easychat_assets/createuser.jpg)
+![UserDetails](Easychat_assets/home.jpg)
 
 - Showing Chats:
 
 ![Chats Page](Easychat_assets/chat.jpg)
 
-<!-- - SnackBar Alerts
-
-![SnackBar Alerts](assets/snackBar9.png) -->
 
