@@ -7,6 +7,8 @@
 #### Now start the react by yarn start
 #### And the chat application would be running successfully by now.
 
+---
+
 ## About the EasyChat Application
 
 - A place to share the information/thoughts.
