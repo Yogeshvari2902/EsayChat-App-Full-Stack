@@ -29,15 +29,15 @@
 
 - Login Page:
 
-![Login Page](assets/login.jpg)
+![Login Page](Easychat_assets/login.jpg)
 
 - Create User:
 
-![Create User](assets/createuser.jpg)
+![Create User](Easychat_assets/createuser.jpg)
 
 - Showing Chats:
 
-![Chats Page](assets/chat.jpg)
+![Chats Page](Easychat_assets/chat.jpg)
 
 <!-- - SnackBar Alerts
 
