@@ -24,5 +24,20 @@
 - React: FrontEnd Developement
 - NodeJS: For BackEnd developement
 - Netlify: For hosting the frontEnd developement
-- Vercel: For hosting the frontent production
+
+- Login Page:
+
+![Login Page](assets/login.jpg)
+
+- Create User:
+
+![Create User](assets/createuser.jpg)
+
+- Showing Chats:
+
+![Credential Update](assets/userUpdate.webp)
+
+- SnackBar Alerts
+
+![SnackBar Alerts](assets/snackBar9.png)
 
