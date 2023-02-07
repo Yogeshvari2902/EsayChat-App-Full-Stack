@@ -25,6 +25,8 @@
 - NodeJS: For BackEnd developement
 - Netlify: For hosting the frontEnd developement
 
+---
+
 - Login Page:
 
 ![Login Page](assets/login.jpg)
