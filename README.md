@@ -32,7 +32,7 @@
 
 - Desktop Preview
 
-![Desktop-Preview](assets/desktop-preview9.png)
+![Desktop-Preview](Easychat_assets/phone.jpg)
 
 - Mobile Preview
 
