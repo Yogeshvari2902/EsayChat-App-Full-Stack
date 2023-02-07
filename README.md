@@ -7,11 +7,10 @@
 #### Now start the react by yarn start
 #### And the chat application would be running successfully by now.
 
-## About the Blogpost Application
+## About the EasyChat Application
 
-- A place to share the posts and read others post.
-- User can create, delete, as well as can edit the post.
-- He/she can likes and comment on others post after creating account.
+- A place to share the information/thoughts.
+- User can create an account, then login, do some chat and logout their accounts.
 
 ---
 
