@@ -27,6 +27,21 @@
 
 ---
 
+
+## Previews
+
+- Desktop Preview
+
+![Desktop-Preview](assets/desktop-preview9.png)
+
+- Mobile Preview
+
+![Mobile-Preview](assets/mobile-preview9.png)
+
+- User Details:
+
+![UserDetails](assets/userDetails9.png)
+
 - Login Page:
 
 ![Login Page](Easychat_assets/login.jpg)
